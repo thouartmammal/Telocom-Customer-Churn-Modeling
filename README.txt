@@ -1,5 +1,4 @@
-﻿(README will be finished once EDA and Modeling is finished)
-
+(README will be updated as project progresses)
 
 Purpose of Project: 
 
@@ -18,3 +17,4 @@ Works Cited
 Fujo, Samah Wael, et al. “Customer Churn Prediction in Telecommunication Industry Using Deep Learning.” Information Sciences Letters, vol. 11, 2021, https://www.naturalspublishing.com/files/published/i4925e47vyg47p.pdf. Accessed 15 9 2025.
 
 Umayaparvathi, V., and K. Iyakutti. “A Survey on Customer Churn Prediction in Telecom Industry: Datasets, Methods and Metrics.” International Research Journal of Engineering and Technology (IRJET), vol. 3, no. 4, 2016, pp. 1065-1070, https://www.irjet.net/archives/V3/i4/IRJET-V3I4213.pdf. Accessed 15 09 2025.
+
