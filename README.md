@@ -3,6 +3,9 @@
 ## Purpose of Project: 
 Churn is the moment a customer ends their relationship with a company, and it is a _costly_ hit to the business. Because churn drains revenue and growth potential, predicting which customers are at risk of leaving is crucial. By identifying these at-risk customers early, companies can take proactive steps to retain them and safeguard their future success.
 
+On a personal level, after taking my Marketing course as part of my Finance degree, I have been very interested in how we could quantify the very volatile and unpredictable world of human emotions that make up Marketing. This interested had motivated me to take on this project and continuously improve this project.
+
+
 ## Essential Components & Overall Structure of the Repository:
 📦 Project Root
 
