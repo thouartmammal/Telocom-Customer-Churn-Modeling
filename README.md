@@ -1,15 +1,22 @@
 # Telecom-Customer-Churn-Modeling
 
-(Incompleted README - README will be finished once 3_Churn_modeling.ipynb is completed.)
-
 ## Purpose of Project: 
 Churn is the moment a customer ends their relationship with a company, and it is a _costly_ hit to the business. Because churn drains revenue and growth potential, predicting which customers are at risk of leaving is crucial. By identifying these at-risk customers early, companies can take proactive steps to retain them and safeguard their future success.
 
-## Components of the Directory:
-- `1_Churn_preprocessing.ipynb` — Data quality and assessment of “telecom churn (cell2cell)” dataset from KaggleHub.
+## Essential Components & Overall Structure of the Repository:
+📦 Project Root
+├── 📁 EDA
+│   ├── 2_Churn_EDA.ipynb
+│   └── post_eda.csv
+├── 📁 Preprocessing
+│   ├── 1_Churn_preprocessing.ipynb
+│   └── clean_data.csv
+├── 3_Churn_Modeling.ipynb
+└── README.md
+
+- `1_Churn_preprocessing.ipynb` — Data quality and assessment of “telecom churn (cell2cell)” dataset from KaggleHub. Conduct feature engineering to optimise performance of machine learning model.
 - `2_Churn_EDA.ipynb` — Explore the cleaned dataset to find patterns and trends that differentiate a churning and non-churning customer while calculating key metrics.
-- `3_Churn_modeling.ipynb` —  Creating churn prediction models data to predict the likelihood of the current customer leaving.
-- README.txt
+- `3_Churn_modeling.ipynb` —  Exploring and choosing the most optimal churn prediction models to predict churn.
 
 
 ## URL of Dataset:
