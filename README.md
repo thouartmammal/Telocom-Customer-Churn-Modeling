@@ -5,13 +5,21 @@ Churn is the moment a customer ends their relationship with a company, and it is
 
 ## Essential Components & Overall Structure of the Repository:
 📦 Project Root
+
 ├── 📁 EDA
+
 │   ├── 2_Churn_EDA.ipynb
+
 │   └── post_eda.csv
+
 ├── 📁 Preprocessing
+
 │   ├── 1_Churn_preprocessing.ipynb
+
 │   └── clean_data.csv
+
 ├── 3_Churn_Modeling.ipynb
+
 └── README.md
 
 - `1_Churn_preprocessing.ipynb` — Data quality and assessment of “telecom churn (cell2cell)” dataset from KaggleHub. Conduct feature engineering to optimise performance of machine learning model.
